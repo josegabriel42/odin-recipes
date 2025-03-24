@@ -1,0 +1,2 @@
+Projeto utilizado no curso de desenvolvimento do The Odin Project.
+Consiste em um website simples de receitas culinárias construido com HTML, CSS e javascript e que será incrementado ao longo do curso.
